@@ -1,15 +1,19 @@
-# 📉 Customer Churn Prediction – Telecom Dataset
+# 📉 Customer Churn Prediction – Machine Learning Project
 
-## 📌 Objective:
-To identify customers likely to churn and help businesses retain clients through predictive analytics.
+## 🧠 Objective
+To identify telecom customers likely to churn using logistic regression and random forest.
 
-## 🔧 Tools & Technologies:
-- Python | Pandas | Matplotlib | Seaborn
-- Logistic Regression, Random Forest
-- Confusion Matrix, Accuracy, F1 Score
+## 📊 Techniques Used
+- EDA, Data Cleaning
+- Logistic Regression
+- Random Forest
+- Accuracy, F1 Score
 
-## 📊 Results:
-Achieved 85% accuracy; reduced churn prediction errors by 10%. Presented executive-level insights to simulate real-world client impact.
+## ✅ Results
+Achieved 85% accuracy. Identified key churn factors that helped simulate business intervention.
 
-## 🌐 Next Steps:
-Plan to integrate prompt-based summarization of churn reasons using Generative AI techniques.
+## 🔧 Tech Stack
+Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+
+## 🌱 Next Steps
+Plan to explore prompt-based customer feedback analysis using Generative AI tools.
